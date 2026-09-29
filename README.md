@@ -582,6 +582,6 @@ All reported values above are taken directly from the uploaded notebook.
 
 ## 👤 Author
 
-**Your Name**
+Suryansh Pandey 
 
 If you found this project useful, consider ⭐ starring the repository.
